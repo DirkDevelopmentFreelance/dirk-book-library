@@ -1,0 +1,27 @@
+{
+  "name": "dirk-book-library",
+  "version": "1.0.0",
+  "description": "All the books I have read in my life",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DirkDevelopmentFreelance/dirk-book-library.git"
+  },
+  "author": "Dirk Wessels",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DirkDevelopmentFreelance/dirk-book-library/issues"
+  },
+  "homepage": "https://github.com/DirkDevelopmentFreelance/dirk-book-library#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "pg": "^8.12.0"
+  }
+}
